@@ -1,0 +1,1 @@
+Created a basic pet training app using conepts of flutter and its widgets.This app contains many widgets such as splash screens,containers,grid views,animations,etc.This app was created under a teamwork of 2 other team mates conducted by GDSC chapter of our university.
